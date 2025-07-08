@@ -156,3 +156,5 @@ When you run the system, it will demonstrate:
 8. **Error Handling**: Robust validation for real-world scenarios
 
 This system demonstrates comprehensive object-oriented programming concepts while providing a practical e-commerce solution with customer management, detailed checkout functionality, and robust error handling. 
+
+![image](https://github.com/user-attachments/assets/a71dc4d8-d99a-4e00-899b-3041e5404b34)
